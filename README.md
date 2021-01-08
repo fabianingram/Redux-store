@@ -1,6 +1,5 @@
 # Redux-store
 
-# Shop-Shop-Redux-Store
 
 Refractor e-commerce platform from using global state React's Contect API to Redux.
 
