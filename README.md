@@ -29,7 +29,7 @@ E-commerce website that allows user to login and purchase items, also see their 
 - All the items pruchased will be saved in the history.
 
 
-## Gif Walkthrough
+## Redux shop-shop store Gif Walkthrough
 
 ![](https://github.com/fabianingram/Redux-store/blob/main/Redux%20store/redux-store/client/public/images/addcart.gif)
 
