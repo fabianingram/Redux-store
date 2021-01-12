@@ -1,7 +1,7 @@
 # Redux-store
 
 
-Refractor e-commerce platform from using global state React's Contect API to Redux.
+ A Refractor e-commerce platform from using global state React's Contect API to Redux.
 
 ### Github : https://github.com/fabianingram/Redux-store
 ### Website : https://redux-store-shop.herokuapp.com/
@@ -20,13 +20,13 @@ E-commerce website that allows user to login and purchase items, also see their 
 
 ## Usage
 - This e-commerce website are sortec by categories.
-- Users are able add items from the homepage, category page and product detail page(PDP).
-- Users also able to delete item from PDP or cart.
-- Users also able to update the quantity of the items in the cart.
-- To continue to purchase their items, users must sign up and login.
-- Payments are handled by Stripe.
-- Once user paid, it will redirect them to the sucess page.
-- All the items pruchased will be saved in the history.
+- Users can add items from the homepage, category page as well as product detail page(PDP).
+- Userscan also delete item from PDP or cart.
+- Users should be able to update the quantity of the items in the cart.
+- Users should be able to continue to purchase their items, users must also sign up and login.
+- The payments are handled by Stripe.
+- Once the user has paid, it will redirect them to the sucess page.
+- All items pruchased will be saved in History.
 
 
 ## Redux shop-shop store Gif Walkthrough
